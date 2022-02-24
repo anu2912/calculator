@@ -1,3 +1,16 @@
+Deployed App : https://calculator-anu2912.vercel.app/
+
+# Preview :
+
+ Light Mode :
+ ![calculator1 (1)](https://user-images.githubusercontent.com/68178931/155547773-32f75008-50fc-4b54-8a2a-f7ce3058f0ff.png)
+
+
+ Dark Mode :
+ ![calculator1 (2)](https://user-images.githubusercontent.com/68178931/155547931-275ed882-fc12-4988-8370-bf183e59a12b.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
